@@ -36,15 +36,7 @@ Lütfen makul değerler giriniz.
 3. Python dosyasını çalıştırın:
    python tr_triangle.py
 
-### 📂 Örnek Çıktı
-Girdi 5 için:
-*
-**
-***
-****
-*****
-
-
+---
 
 ## 🇬🇧 English
 
@@ -73,14 +65,7 @@ Please use reasonable input values.
 3. Run the Python script:
    python tr_triangle.py
 
-### 📂 Example Output
-
-For an input of 5:
-*
-**
-***
-****
-*****
+---
 
 ### 📜 Lisans / License
 Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır. / This project is licensed under the [MIT License](LICENSE).
