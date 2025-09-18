@@ -5,7 +5,7 @@
 | Dil / Language | Dosya / File        | Açıklama / Description        |
 |----------------|---------------------|--------------------------------|
 | 🇹🇷 Türkçe     | [tr_triangle.py](tr_triangle.py) | `*` karakteri ile üçgen oluşturma |
-| 🇬🇧 English    | ⏳ Coming Soon      | Description will be added soon |
+| 🇬🇧 English    | [eng_triangle.py](eng_triangle.py) | Create triangle with `*` |
 
 ---
 
@@ -63,7 +63,17 @@ Please use reasonable input values.
    cd triangle.py
 
 3. Run the Python script:
-   python tr_triangle.py
+   python eng_triangle.py
+
+---
+
+## Sürüm Geçmişi | Version History 
+
+| Sürüm / Version | Tarih / Date  | Açıklama / Description |
+|---------|------------|----------------------|
+| v1.1.0  | 2025-09-18 | İngilizce kod eklendi / English version of the code added |
+| v1.0.0  | 2025-09-01 | İlk sürüm oluşturuldu / Initial release |
+
 
 ---
 
