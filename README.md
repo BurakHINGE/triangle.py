@@ -4,37 +4,9 @@
 
 | Dil / Language | Dosya / File        | Açıklama / Description        |
 |----------------|---------------------|--------------------------------|
-| 🇹🇷 Türkçe     | [tr_triangle.py](tr_triangle.py) | `*` karakteri ile üçgen oluşturma |
 | 🇬🇧 English    | [eng_triangle.py](eng_triangle.py) | Create triangle with `*` |
+| 🇹🇷 Türkçe     | [tr_triangle.py](tr_triangle.py) | `*` karakteri ile üçgen oluşturma |
 
----
-
-## 🇹🇷 Türkçe
-
-### 📌 Genel Bakış
-Bu proje, `*` karakterini kullanarak üçgen oluşturan basit bir Python uygulamasıdır.  
-Döngüler ve temel Python programlama mantığını göstermektedir.
-
-### 🚀 Özellikler
-- `*` ile üçgen şekli oluşturur  
-- Basit ve başlangıç seviyesine uygun  
-- Python 3.x sürümlerinde çalışır  
-
-### ⚠️ Uyarı
-Çok büyük sayılar girmek cihazınızın belleğini zorlayabilir veya programın çökmesine neden olabilir.  
-Lütfen makul değerler giriniz.  
-
-### 🛠️ Kullanım
-1. Repoyu klonlayın:
-   ```bash
-   git clone https://github.com/BurakHINGE/triangle.py.git
-   ```
-   
-2. Proje klasörüne gidin:
-   cd triangle.py
-
-3. Python dosyasını çalıştırın:
-   python tr_triangle.py
 
 ---
 
@@ -67,15 +39,44 @@ Please use reasonable input values.
 
 ---
 
-## Sürüm Geçmişi | Version History 
+## 🇹🇷 Türkçe
 
-| Sürüm / Version | Tarih / Date  | Açıklama / Description |
+### 📌 Genel Bakış
+Bu proje, `*` karakterini kullanarak üçgen oluşturan basit bir Python uygulamasıdır.  
+Döngüler ve temel Python programlama mantığını göstermektedir.
+
+### 🚀 Özellikler
+- `*` ile üçgen şekli oluşturur  
+- Basit ve başlangıç seviyesine uygun  
+- Python 3.x sürümlerinde çalışır  
+
+### ⚠️ Uyarı
+Çok büyük sayılar girmek cihazınızın belleğini zorlayabilir veya programın çökmesine neden olabilir.  
+Lütfen makul değerler giriniz.  
+
+### 🛠️ Kullanım
+1. Repoyu klonlayın:
+   ```bash
+   git clone https://github.com/BurakHINGE/triangle.py.git
+   ```
+   
+2. Proje klasörüne gidin:
+   cd triangle.py
+
+3. Python dosyasını çalıştırın:
+   python tr_triangle.py
+
+---
+
+## Version History | Sürüm Geçmişi 
+
+| Version / Sürüm | Date / Tarih | Description / Açıklama |
 |---------|------------|----------------------|
-| v1.1.0  | 2025-09-18 | İngilizce kod eklendi / English version of the code added |
-| v1.0.0  | 2025-09-01 | İlk sürüm oluşturuldu / Initial release |
+| v1.1.0  | 2025-09-18 | English version of the code added / İngilizce kod eklendi |
+| v1.0.0  | 2025-09-01 | Initial release / İlk sürüm oluşturuldu |
 
 
 ---
 
 ### 📜 Lisans / License
-Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır. / This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE). / Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır. 
